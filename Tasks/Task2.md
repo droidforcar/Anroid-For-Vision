@@ -1,5 +1,5 @@
 # The main purposes of this task are
-Start with the [ Introduction to computer vision ] ( https://www.udacity.com/course/introduction-to-computer-vision--ud810/ ).
+Start with the [Introduction to computer vision]( https://www.udacity.com/course/introduction-to-computer-vision--ud810/ ).
 Finish untill A2 of the same course (module 7) as these are some basics for the image processing.
 Start setting up openCV in android studio as it will be our library for vision and processing.
 # TODOS
