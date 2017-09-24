@@ -1,10 +1,16 @@
-# Anroid-For-Vision
-### This repo for
+# The main purposes of this task are
+Start with the [ Introduction to computer vision ] ( https://www.udacity.com/course/introduction-to-computer-vision--ud810/ ).
+Finish untill A2 of the same course (module 7) as these are some basics for the image processing.
+Start setting up openCV in android studio as it will be our library for vision and processing.
+# TODOS
+1. Setting the openCV for android  use this blogs as reference [ Part 1 ]
+( https://sriraghu.com/2017/03/11/opencv-in-android-an-introduction-part-1/ ).
+and [ Part 2 ]
+( https://sriraghu.com/2017/03/23/opencv-in-android-an-introduction-part-22/ ).
+2. Using openCV in applications , here is a cool book Android openCv programming by example. 
+3. Finish the first 7 modules of [Introduction to computer vision]
+( https://www.udacity.com/course/introduction-to-computer-vision--ud810/ ).
+Optional
 
-1. TODOs of each task of the project.
-2. Source code for the project.
-3. Resources we found research , tutorials, refrences etc.
-4. Any presentations and Documentations.
-Our project should look like this
-
-(https://play.google.com/store/apps/details?id=com.driveassist.experimental&hl=en)
+4. See also the computer vision section in this course [Intro to Artificial Intelligence]
+( https://www.udacity.com/course/intro-to-artificial-intelligence--cs271 ).
